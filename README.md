@@ -1,3 +1,10 @@
+This c# winform project, please ensure windows X64 .net is installed.
+
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+
+
+
 <img width="305" height="193" alt="image" src="https://github.com/user-attachments/assets/bf7ee433-fd1c-4a1f-910d-c43acadaf808" />
 
 Press Start button, the tools will try to launch Excel file c:\test\sample.xlsx,
