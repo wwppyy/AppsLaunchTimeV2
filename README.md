@@ -20,10 +20,14 @@ the launch time consist of two parts
 -rendering time, extra time about rendering/update some graph/UI ex: excel working on suggeting different chart types even the raw data of chart had been load
 you would see pretty long rendering time, if the excel file contain charts
 
-
 the Camera button is not related to excel launch time but active the camera without launch any camera application
 (which is used for another appliction)
 
 excutable could be found under bin folder
+
+
+
+<img width="1225" height="533" alt="image" src="https://github.com/user-attachments/assets/ea16c863-2b3b-4d12-956a-5c2c2fc46ce4" />
+
 
 
